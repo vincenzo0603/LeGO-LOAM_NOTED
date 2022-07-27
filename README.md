@@ -1,2 +1,3 @@
 - 学习LeGO-LOAM时，写的代码注释，一部分注释来自[wykxwyc](https://github.com/wykxwyc/LeGO-LOAM_NOTED.git),一部分来自网上查阅，还有一部分是自己的理解
+- [视频demo](https://www.bilibili.com/video/BV1JU4y1q7AR/?vd_source=a3bb79e842fe15132e8c32d16d443546)
 - 持续更新中....
